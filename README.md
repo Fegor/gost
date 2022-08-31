@@ -1,7 +1,7 @@
 # gost
 
 ```
-wget https://github.com/steamsv/gost/raw/main/install.sh && bash install.sh
+wget https://github.com/fegor/gost/raw/main/install.sh && bash install.sh
 ```
 
 ## GOST 各协议带宽性能测试
